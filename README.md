@@ -1,3 +1,3 @@
 # hello-world
 This repository is for practicing the GitHub Flow. 
-I'm Christina, a self-taught coder. I'm in the proccess of learning C, Java, and Python code. This project will be the first of my journey, and progression to become a full time coder. 
+I'm Christina, a self-taught coder. I'm in the process of learning C, Java, and Python code. This project will be the first of my journey, and progression to become a full time coder. 
